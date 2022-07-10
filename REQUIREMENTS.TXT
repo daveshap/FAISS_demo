@@ -1,0 +1,3 @@
+faiss-cpu
+tensorflow-hub
+tensorflow-cpu
